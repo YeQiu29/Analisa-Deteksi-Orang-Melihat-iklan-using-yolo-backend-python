@@ -2,7 +2,7 @@
 
 Aplikasi ini merupakan implementasi model YOLO (You Only Look Once) untuk mendeteksi atensi orang terhadap iklan melalui deteksi kepala secara real-time dari feed webcam. Proyek ini juga dilengkapi dengan API endpoint untuk menerima dan menyimpan data deteksi.
 
-![Contoh Hasil Deteksi](img/hasil_deteksi.png)
+![Contoh Hasil Deteksi](img/hasil.png)
 *(Catatan: Gambar di atas merupakan contoh hasil deteksi dari sistem.)*
 
 ---
