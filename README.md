@@ -1,4 +1,4 @@
-# 🚀 Proyek Analisa Deteksi Orang Menggunakan YOLO
+# 🚀 Proyek Analisa Deteksi Orang Melihat Iklan Menggunakan YOLO
 
 Aplikasi ini merupakan implementasi model YOLO (You Only Look Once) untuk mendeteksi atensi orang terhadap iklan melalui deteksi kepala secara real-time dari feed webcam. Proyek ini juga dilengkapi dengan API endpoint untuk menerima dan menyimpan data deteksi. Untuk Sistem ini saya menggunakan Hardware dari NVIDIA JETSON NANO 4GB untuk proses Deploynya. untuk Website Frontend Analisa dan monitoringnya saya menggunakan Laravel.
 
