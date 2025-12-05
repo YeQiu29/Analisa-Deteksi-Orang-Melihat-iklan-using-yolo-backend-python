@@ -1,0 +1,15 @@
+# COCO 2017 dataset http://cocodataset.org
+
+# download command/URL (optional)
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: Head-datasets-1/train
+val: Head-datasets-1/test
+# test: ./coco/test-dev2017.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['person']

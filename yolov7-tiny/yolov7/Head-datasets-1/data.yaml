@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: head-datasets-zckjs
+  url: https://universe.roboflow.com/geo-given/head-datasets-zckjs/dataset/1
+  version: 1
+  workspace: geo-given
+test: ../test/images
+train: Head-datasets-1/train/images
+val: Head-datasets-1/valid/images
